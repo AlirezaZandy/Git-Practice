@@ -14,10 +14,11 @@ This is an educational task for new team members to practice Git and GitHub.
 6. In the `name_list.md` file:
     - Add your name following the example.
     - Choose a 3-letter username (ASCII characters only).
-7. **Stage** and **commit** your changes.
-8. **Push** your branch to the origin repository on GitHub.
-9. **Create a pull request** on GitHub.
-10. Task complete!
+7. **Pull** latest changes from the **Original Repository**
+8. **Stage** and **Commit** your changes.
+9. **Push** your branch to the origin repository on GitHub.
+10. **Create a pull request** on GitHub.
+11. Task complete!
 
 ## Completion:
 - You are done when your pull request is successfully reviewed and merged by the repository maintainer.
