@@ -15,9 +15,10 @@ This is an educational task for new team members to practice Git and GitHub.
     - Add your name following the example.
     - Choose a 3-letter username (ASCII characters only).
 7. **Stage** and **commit** your changes.
-8. **Push** your branch to the origin repository on GitHub.
-9. **Create a pull request** on GitHub.
-10. Task complete!
+8. **Pull** Latest Changes from the Original Repository.
+9. **Push** your branch to the origin repository on GitHub.
+10. **Create a pull request** on GitHub.
+11. Task complete!
 
 ## Completion:
 - You are done when your pull request is successfully reviewed and merged by the repository maintainer.
