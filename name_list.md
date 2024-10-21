@@ -1,4 +1,4 @@
-# Gitamarketing Hall of Git
+# Hall of Git
 
 | Firstname | Lastname | Username |
 | ----------- | ----------- | ----------- |
